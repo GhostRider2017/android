@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1404241251",
+    "firebase_url": "https://ghostrider-7319f.firebaseio.com",
+    "project_id": "ghostrider-7319f",
+    "storage_bucket": "ghostrider-7319f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1404241251:android:6a8dcccd80332069",
+        "android_client_info": {
+          "package_name": "com.ghostrider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1404241251-6cm7pvuv6d2dta63ran8rduli1pqujt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ghostrider",
+            "certificate_hash": "c9f7d43b5dfb47e072ccadc34c2a167dc2f88d36"
+          }
+        },
+        {
+          "client_id": "1404241251-s2jjjk3qtp9pdaeq6cvptsrlehvi3csc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDozrjwYaMmnDFwDjkyI1Z1t6e4jFnFpmI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1404241251-s2jjjk3qtp9pdaeq6cvptsrlehvi3csc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
